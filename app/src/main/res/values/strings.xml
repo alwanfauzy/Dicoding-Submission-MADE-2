@@ -12,11 +12,9 @@
     <string name="lamongan_indonesia">Lamongan, Indonesia</string>
     <string name="repository">Repository</string>
     <string name="_32">32</string>
-    <string name="user_s_avatar">user\'s avatar</string>
     <string name="github_user_app">Github User App</string>
     <string name="topbar_subtitle">Find your developers to make the world more intelligent!</string>
     <string name="please_find">Please Find a Username!</string>
-    <string name="arrow">arrow</string>
     <string name="icon_find">icon_find</string>
     <string name="search_fail">search_fail</string>
     <string name="search_cant_find">Can\'t find any user</string>
